@@ -4,6 +4,7 @@ findMe is a social media app inspired by geoGuessr. Instead of guessing a locati
 
 ### Find out more about our project:
 - our [wiki](https://github.com/uzh-ase-fs24/workspace/wiki)
+- our [github project](https://github.com/orgs/uzh-ase-fs24/projects/1)
 
 <!--
 
