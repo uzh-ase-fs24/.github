@@ -1,6 +1,6 @@
 ## Hi there 👋 this is findMe
 
-findMe is a social media app inspired by geoGuessr. Instead of guessing a location based on google street view, post location riddles yourself and challenge your friends. Give it a try!
+findMe is a social media app inspired by geoGuessr. Instead of guessing a location based on google street view, post location riddles yourself and challenge your friends. Give it a try at [https://find-me.life](https://find-me.life)!
 
 ### Find out more about our project:
 - our [wiki](https://github.com/uzh-ase-fs24/workspace/wiki)
